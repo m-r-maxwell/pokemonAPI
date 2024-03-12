@@ -1,0 +1,257 @@
+info: {}
+paths:
+    /items:
+        get:
+            consumes:
+                - application/json
+            description: Returns a list of all items
+            operationId: getAllItems
+            produces:
+                - application/json
+            responses:
+                "200":
+                    $ref: '#/responses/Item'
+                "500":
+                    $ref: '#/responses/error'
+            tags:
+                - items
+        post:
+            consumes:
+                - application/json
+            description: Returns an item by its name
+            operationId: getItemByName
+            produces:
+                - application/json
+                - 'Params:'
+                - 'name: item'
+                - 'in: body'
+                - 'description: The name of the item'
+                - 'required: true'
+            responses:
+                "200":
+                    $ref: '#/responses/Item'
+                "500":
+                    $ref: '#/responses/error'
+            tags:
+                - items
+    /items/price:
+        post:
+            consumes:
+                - application/json
+            description: Returns a list of items within a price range
+            operationId: getItemByPriceRange
+            produces:
+                - application/json
+                - 'Params:'
+                - 'name: minPrice'
+                - 'in: body'
+                - 'description: The price range'
+                - 'required: true'
+                - 'name: maxPrice'
+                - 'in: body'
+                - 'description: The price range'
+                - 'required: true'
+            responses:
+                "200":
+                    $ref: '#/responses/Item'
+                "500":
+                    $ref: '#/responses/error'
+            tags:
+                - items
+    /moves:
+        get:
+            consumes:
+                - application/json
+            description: Returns a list of all moves
+            operationId: getAllMoves
+            produces:
+                - application/json
+            responses:
+                "200":
+                    $ref: '#/responses/Move'
+                "500":
+                    $ref: '#/responses/error'
+            tags:
+                - moves
+        post:
+            consumes:
+                - application/json
+            description: Returns a move by its name
+            operationId: getMoveByName
+            produces:
+                - application/json
+                - 'Params:'
+                - 'name: move'
+                - 'in: body'
+                - 'description: The name of the move'
+                - 'required: true'
+            responses:
+                "200":
+                    $ref: '#/responses/Move'
+                "500":
+                    $ref: '#/responses/error'
+            tags:
+                - moves
+    /moves/new:
+        post:
+            consumes:
+                - application/json
+            description: Creates a new move
+            operationId: createMove
+            produces:
+                - application/json
+                - 'Params:'
+                - 'name: move'
+                - 'in: body'
+                - 'description: The move to create'
+                - 'required: true'
+            responses:
+                "200":
+                    $ref: '#/responses/Move'
+                "500":
+                    $ref: '#/responses/error'
+            tags:
+                - moves
+    /moves/type/{type}:
+        post:
+            consumes:
+                - application/json
+            description: Returns a list of moves by type
+            operationId: getMoveByType
+            produces:
+                - application/json
+                - 'Params:'
+                - 'name: type'
+                - 'in: path'
+                - 'description: The type of the move'
+                - 'required: true'
+            responses:
+                "200":
+                    $ref: '#/responses/Move'
+                "500":
+                    $ref: '#/responses/error'
+            tags:
+                - moves
+    /pokemon:
+        get:
+            description: Returns a list of pokemon up to the 8th generation
+            operationId: getPokemonList
+            produces:
+                - application/json
+            responses:
+                "200":
+                    $ref: '#/responses/Pokemon'
+                "500":
+                    $ref: '#/responses/error'
+            tags:
+                - pokemon
+        post:
+            consumes:
+                - application/json
+            description: Returns a pokemon by its name
+            operationId: getPokemonByName
+            produces:
+                - application/json
+                - 'Params:'
+                - 'name: pokemon'
+                - 'in: body'
+                - 'description: The name of the pokemon'
+                - 'required: true'
+            responses:
+                "200":
+                    $ref: '#/responses/Pokemon'
+                "500":
+                    $ref: '#/responses/error'
+            tags:
+                - pokemon
+    /pokemon/{id}:
+        get:
+            description: Returns a pokemon by its pokedex number
+            operationId: getPokemonByPokedexNumber
+            produces:
+                - application/json
+                - 'Params:'
+                - 'name: id'
+                - 'in: path'
+                - 'description: The pokedex number of the pokemon'
+                - 'required: true'
+            responses:
+                "200":
+                    $ref: '#/responses/Pokemon'
+                "500":
+                    $ref: '#/responses/error'
+            tags:
+                - pokemon
+    /pokemon/abilities:
+        get:
+            description: Returns a list of pokemon abilities
+            operationId: getPokemonAbilities
+            produces:
+                - application/json
+            responses:
+                "200":
+                    $ref: '#/responses/Ability'
+                "500":
+                    $ref: '#/responses/error'
+            tags:
+                - pokemon
+        post:
+            consumes:
+                - application/json
+            description: Returns a pokemon ability by its name
+            operationId: getPokemonAbilityByName
+            produces:
+                - application/json
+                - 'Params:'
+                - 'name: ability'
+                - 'in: body'
+                - 'description: The name of the ability'
+                - 'required: true'
+            responses:
+                "200":
+                    $ref: '#/responses/Ability'
+                "500":
+                    $ref: '#/responses/error'
+            tags:
+                - pokemon
+    /pokemon/new:
+        post:
+            consumes:
+                - application/json
+            description: Creates a new pokemon
+            operationId: createPokemon
+            produces:
+                - application/json
+                - 'Params:'
+                - 'name: pokemon'
+                - 'in: body'
+                - 'description: The pokemon to create'
+                - 'required: true'
+            responses:
+                "200":
+                    $ref: '#/responses/Pokemon'
+                "500":
+                    $ref: '#/responses/error'
+            tags:
+                - pokemon
+    /pokemon/type/{type}:
+        post:
+            consumes:
+                - application/json
+            description: Returns a list of pokemon by type
+            operationId: getPokemonByType
+            produces:
+                - application/json
+                - 'Params:'
+                - 'name: type'
+                - 'in: path'
+                - 'description: The type of the pokemon'
+                - 'required: true'
+            responses:
+                "200":
+                    $ref: '#/responses/Pokemon'
+                "500":
+                    $ref: '#/responses/error'
+            tags:
+                - pokemon
+swagger: "2.0"

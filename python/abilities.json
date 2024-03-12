@@ -1,0 +1,1702 @@
+[
+    {
+        "ability_name": "Adaptability",
+        "ability_description": "The Pokemon's STAB modifier becomes 2x.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Aerilate",
+        "ability_description": "Turns all of this Pokemon's Normal-typed attacks into Flying-type and deals 1.3x damage. Does not affect Hidden Power.",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Aftermath",
+        "ability_description": "Deals 25% damage when KOed by contact damage.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Air Lock",
+        "ability_description": "Blocks the effects of weather.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Analytic",
+        "ability_description": "Raises the power of all moves by 30% if the wielder moves last.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Anger Point",
+        "ability_description": "Raises Attack to +6 if struck by a critical hit.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Anticipation",
+        "ability_description": "Alerts the Pokemon of certain dangerous moves.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Arena Trap",
+        "ability_description": "Prevents switching and increases wild encounter rate.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Aroma Veil",
+        "ability_description": "Protects allies from attacks that limit their move choices.",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Aura Break",
+        "ability_description": "Reverses the effects of Dark Aura and Fairy Aura.",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Bad Dreams",
+        "ability_description": "Deals 12.5% damage to sleeping opponents per turn.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Battle Armor",
+        "ability_description": "Prevents critical hits.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Big Pecks",
+        "ability_description": "The wielder's Defense cannot be lowered.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Blaze",
+        "ability_description": "Boosts power of Fire-type moves 50% when at 1/3 of max HP or less.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Bulletproof",
+        "ability_description": "This Pokemon is protected from some Ball and Bomb moves.",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Cheek Pouch",
+        "ability_description": "Increases HP when this Pokemon consumes a berry.",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Chlorophyll",
+        "ability_description": "Speed doubles in sun.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Clear Body",
+        "ability_description": "Stops the enemy from lowering this Pokemon's stats.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Cloud Nine",
+        "ability_description": "Blocks the effects of weather.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Color Change",
+        "ability_description": "Changes user's type to type of last attack that hit this Pokemon.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Competitive",
+        "ability_description": "Raises the user's Special Attack stat by two stages when a stat is lowered, including the Special Attack stat. This does not include self-induced stat drops like those from Close Combat.",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Compound Eyes",
+        "ability_description": "Raises accuracy by 30% and increases the probability of wild Pokemon holding items.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Contrary",
+        "ability_description": "The wielder's stat changes are reversed.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Cursed Body",
+        "ability_description": "The wielder has a 30% chance to disable any move that hits it.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Cute Charm",
+        "ability_description": "Can infatuate Pokemon of opposite gender when struck and increases their wild encounter rate.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Damp",
+        "ability_description": "Prevents the use of Self-Destruct or Explosion.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Dark Aura",
+        "ability_description": "Increases the power of all Dark-type moves in battle to 1.3x.",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Defeatist",
+        "ability_description": "Halves the wielder's Attack and Special Attack if its HP drops below 50%.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Defiant",
+        "ability_description": "Boosts Attack by two stages for every stat drop.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Delta Stream",
+        "ability_description": "Summons Strong Winds until Pokemon leaves battle. Electric/Ice/Rock moves do half damage and Weather changing moves/abilities fail, except for Primordial Sea and Desolate Land.",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Desolate Land",
+        "ability_description": "Summons Heavy Sun until Pokemon leaves battle. Water-type moves and weather changing moves/abilities fail, except for Primordial Sea and Delta Stream.",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Download",
+        "ability_description": "User gets a stat boost depending on its opponent's stats.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Drizzle",
+        "ability_description": "Summons rain.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Drought",
+        "ability_description": "Summons sun.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Dry Skin",
+        "ability_description": "User absorbs Water-type attacks and has a weakness to Fire-type moves. Heals in rain and is damaged by sun.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Early Bird",
+        "ability_description": "Reduces sleep time by 50%.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Effect Spore",
+        "ability_description": "Induces paralysis, poison, or sleep on contact.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Fairy Aura",
+        "ability_description": "Increases the power of all Fairy-type moves in battle to 1.3x.",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Filter",
+        "ability_description": "Reduces damage from super effective hits by 1/4.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Flame Body",
+        "ability_description": "Enemies' contact moves have a 30% chance to burn them. Halves the amount of steps required to hatch Eggs.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Flare Boost",
+        "ability_description": "Special Attack is increased by 50% when burned.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Flash Fire",
+        "ability_description": "Grants immunity to Fire and increases Fire's power 50% when hit by a Fire move.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Flower Gift",
+        "ability_description": "Raises Attack and Special Defense of this Pokemon and its partners in sun.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Flower Veil",
+        "ability_description": "Prevents lowering of ally Grass-type Pokemon's stats.",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Forecast",
+        "ability_description": "Changes type according to weather.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Forewarn",
+        "ability_description": "Tells which of the opponent's moves has the highest Base Power.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Friend Guard",
+        "ability_description": "Reduces damage done to a teammate by 25%.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Frisk",
+        "ability_description": "Reveals the foe's items.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Fur Coat",
+        "ability_description": "Halves the damage done to this Pokemon by physical attacks.",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Gale Wings",
+        "ability_description": "This Pokemon's Flying-type moves have their priority increased by 1.",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Gluttony",
+        "ability_description": "Consumes pinch Berries at 50% HP or less.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Gooey",
+        "ability_description": "Contact with this Pokemon decreases the attacker's Speed by 1 stage.",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Grass Pelt",
+        "ability_description": "This Pokemon's Defense is boosted by 50% in Grassy Terrain",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Guts",
+        "ability_description": "Attack is increased 50% when afflicted by a non-volatile status.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Harvest",
+        "ability_description": "After each turn, the wielder may receive the Berry it used at a 50% chance (100% if in sun).",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Healer",
+        "ability_description": "30% chance to heal an adjacent teammate of a status condition every turn.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Heatproof",
+        "ability_description": "Reduces Fire damage 50%.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Heavy Metal",
+        "ability_description": "The wielder's weight is doubled.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Honey Gather",
+        "ability_description": "Adds a chance of finding Honey after each in-game battle.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Huge Power",
+        "ability_description": "Doubles Attack.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Hustle",
+        "ability_description": "Physical moves do 50% more damage at the cost of 20% accuracy. Increases wild encounter rate with higher level Pokemon.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Hydration",
+        "ability_description": "Heals status effects in rain.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Hyper Cutter",
+        "ability_description": "Prevents the enemy from lowering this Pokemon's Attack. Increases Cut's area of effect.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Ice Body",
+        "ability_description": "Heals 1/16 of max HP in hail.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Illuminate",
+        "ability_description": "Increases wild encounter rate (no effect in battles).",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Illusion",
+        "ability_description": "The wielder appears as the last Pokemon in the party to the opponent.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Immunity",
+        "ability_description": "This Pokemon cannot be poisoned.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Imposter",
+        "ability_description": "The wielder transforms into the opponent when it switches in.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Infiltrator",
+        "ability_description": "The wielder bypasses the foe's Light Screen, Reflect, Mist, Safeguard, and Substitute.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Inner Focus",
+        "ability_description": "Prevents flinching.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Insomnia",
+        "ability_description": "Prevents sleep.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Intimidate",
+        "ability_description": "Lowers the foe's Attack by 1 stage. Decreases wild encounter rate.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Iron Barbs",
+        "ability_description": "Deals 1/8 recoil damage when the opponent makes contact.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Iron Fist",
+        "ability_description": "Increases the power of punching moves by 20%.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Justified",
+        "ability_description": "Raises Attack by one stage when hit by a Dark-type move.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Keen Eye",
+        "ability_description": "Pokemon's accuracy cannot be lowered. Opponent's evasion boosts are ignored. Decreases wild encounter rate.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Klutz",
+        "ability_description": "This Pokemon both is unaffected by and will not utilize held items.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Leaf Guard",
+        "ability_description": "Prevents status effects in sun.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Levitate",
+        "ability_description": "This Pokemon is immune to Ground-type moves.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Light Metal",
+        "ability_description": "The wielder's weight is halved.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Lightningrod",
+        "ability_description": "All Electric-type attacks target this Pokemon. Grants immunity to Electric-type moves and boosts Special Attack by 1 stage when hit by an Electric-type move.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Limber",
+        "ability_description": "Blocks paralysis.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Liquid Ooze",
+        "ability_description": "Leeching moves cause the enemy to lose HP instead.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Magic Bounce",
+        "ability_description": "Bounces back certain non-damaging moves.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Magic Guard",
+        "ability_description": "Prevents indirect damage.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Magician",
+        "ability_description": "If this Pokemon is not holding an item, it steals the held item of a target it hits with a move.",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Magma Armor",
+        "ability_description": "Cannot be frozen. Halves the amount of steps required to hatch Eggs.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Magnet Pull",
+        "ability_description": "Prevents Steel-type Pokemon from switching. Increases the chance of encountering a Steel-type Pokemon in the wild.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Marvel Scale",
+        "ability_description": "Boosts Defense 50% when afflicted by a non-volatile status.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Mega Launcher",
+        "ability_description": "Boosts the power of Aura and Pulse moves, such as Aura Sphere and Dark Pulse, by 50%.",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Minus",
+        "ability_description": "If allied with a Pokemon with Plus or Minus, its Special Attack increases by 50%.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Mold Breaker",
+        "ability_description": "Abilities that hinder attacks are nullified.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Moody",
+        "ability_description": "A random stat is lowered by 1 stage and another is boosted by 2 stages every turn.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Motor Drive",
+        "ability_description": "Grants immunity to Electric-type moves and boosts Speed by 1 stage when hit by a Electric-type move.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Moxie",
+        "ability_description": "Boosts Attack by 1 stage if the wielder knocks out another Pokemon.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Multiscale",
+        "ability_description": "Reduces damage by 50% if the wielder is at full health.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Multitype",
+        "ability_description": "Type changes depending on the held plate. Prevents item loss.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Mummy",
+        "ability_description": "The opponent's ability becomes Mummy when it hits the wielder with a contact move.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Natural Cure",
+        "ability_description": "Cures status on switching out.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "No Guard",
+        "ability_description": "All attacks used by and used on this Pokemon will never miss.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Normalize",
+        "ability_description": "All moves used by this Pokemon become Normal-type.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Oblivious",
+        "ability_description": "Grants immunity to infatuation, Captivate, and Taunt.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Overcoat",
+        "ability_description": "Grants immunity to damage from weather effects and powder moves.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Overgrow",
+        "ability_description": "Raises the power of Grass-type moves by 50% when at 1/3 HP or less.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Own Tempo",
+        "ability_description": "Cannot be confused.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Parental Bond",
+        "ability_description": "Allows the Pokemon to hit twice with the same move in one turn. Second hit has 0.5x base power. Does not affect Status, multihit, self-KO, or spread moves (in doubles).",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Pickpocket",
+        "ability_description": "The wielder immediately steals an item from an attacker using a contact move.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Pickup",
+        "ability_description": "If the wielder has no held item, it gets the last item consumed at the end of the turn. Adds a chance of finding an item after each battle.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Pixilate",
+        "ability_description": "Turns all of this Pokemon's Normal-typed attacks into Fairy-type and deals 1.3x damage. Does not affect Hidden Power.",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Plus",
+        "ability_description": "If allied with a Pokemon with Plus or Minus, its Special Attack increases by 50%.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Poison Heal",
+        "ability_description": "Heals 1/8 of max HP per turn when poisoned.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Poison Point",
+        "ability_description": "Enemies' contact moves have a 30% chance of poisoning them.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Poison Touch",
+        "ability_description": "The wielder's contact moves gain a 30% chance to poison the opponent.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Prankster",
+        "ability_description": "Non-damaging moves have their priority increased by one level.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Pressure",
+        "ability_description": "Enemy attacks lose 1 extra PP. Increases wild encounter rate.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Primordial Sea",
+        "ability_description": "Summons Heavy Rain until Pokemon leaves battle. Fire-type moves and weather changing moves/abilities fail, except for Desolate Land and Delta Stream.",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Protean",
+        "ability_description": "Right before this Pokemon uses a move, it changes its type to match that move. Hidden Power is interpreted as its Hidden Power type, rather than Normal.",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Pure Power",
+        "ability_description": "Doubles Attack.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Quick Feet",
+        "ability_description": "Increases Speed by 50% when afflicted with a status condition.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Rain Dish",
+        "ability_description": "Heals 1/16 of max HP in rain.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Rattled",
+        "ability_description": "Raises Speed one stage when hit by a Bug-, Dark-, or Ghost-type move.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Reckless",
+        "ability_description": "Increases the power of recoil moves by 20%.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Refrigerate",
+        "ability_description": "Turns all of this Pokemon's Normal-typed attacks into Ice-typed and deal 1.3x damage. Does not affect Hidden Power.",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Regenerator",
+        "ability_description": "Wielder heals 1/3 of its maximum HP on switching out.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Rivalry",
+        "ability_description": "Raises move power by 25% if the opponent has the same gender, and reduces by 25% if the opponent has the opposite gender. Genderless Pokemon do not affect this ability.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Rock Head",
+        "ability_description": "Negates recoil from recoil moves.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Rough Skin",
+        "ability_description": "Deals 1/8 recoil damage when the opponent makes contact.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Run Away",
+        "ability_description": "Increases the chance of successfully escaping battle with a wild Pokemon.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Sand Force",
+        "ability_description": "Increases power of Ground-, Rock-, and Steel-type attacks by 30% in a sandstorm.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Sand Rush",
+        "ability_description": "Speed doubles in sandstorm.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Sand Stream",
+        "ability_description": "Summons sandstorm.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Sand Veil",
+        "ability_description": "Evasion increases by 20% in a sandstorm.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Sap Sipper",
+        "ability_description": "Grants immunity to Grass-type moves and boosts Attack by 1 stage when hit by a Grass-type move.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Scrappy",
+        "ability_description": "Can hit Ghost-types with Fighting- and Normal-type moves.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Serene Grace",
+        "ability_description": "This Pokemon's secondary effect chances are doubled.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Shadow Tag",
+        "ability_description": "Traps opponents. Does not affect Pokemon with Shadow Tag.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Shed Skin",
+        "ability_description": "30% chance to heal status.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Sheer Force",
+        "ability_description": "Increases power of moves with secondary effects by 30%, but removes the effects.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Shell Armor",
+        "ability_description": "Prevents critical hits.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Shield Dust",
+        "ability_description": "Secondary effects won't occur.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Simple",
+        "ability_description": "Doubles the effect of stat boosts and drops.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Skill Link",
+        "ability_description": "Multi-hit moves will always hit the maximum number of times.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Slow Start",
+        "ability_description": "Attack and Speed are halved for 5 turns.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Sniper",
+        "ability_description": "Critical hits do 2.25x damage instead of 1.5x.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Snow Cloak",
+        "ability_description": "Evasion increases by 20% in hail.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Snow Warning",
+        "ability_description": "Summons hail.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Solar Power",
+        "ability_description": "Loses 10% HP in sun each turn. Special Attack increases by 50%.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Solid Rock",
+        "ability_description": "Reduces damage from super effective hits by 1/4.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Soundproof",
+        "ability_description": "Unaffected by sound moves.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Speed Boost",
+        "ability_description": "Speed raises at end of turn.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Stall",
+        "ability_description": "This Pokemon moves last.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Stance Change",
+        "ability_description": "Only affects Aegislash. If this Pokemon uses a Physical or Special move, it changes to Blade forme. If this Pokemon uses King's Shield, it changes to Shield forme.",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Static",
+        "ability_description": "Enemies' contact moves can paralyze them.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Steadfast",
+        "ability_description": "Speed is boosted one stage when flinched.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Stench",
+        "ability_description": "Adds a 10% flinch chance for moves that do not have one. Decreases wild encounter rate.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Sticky Hold",
+        "ability_description": "This Pokemon's item cannot be removed. Increases the chance of encountering Pokemon while fishing.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Storm Drain",
+        "ability_description": "All Water-type attacks target this Pokemon. Grants immunity to Water-type moves and boosts Special Attack by 1 stage when hit by a Water-type move.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Strong Jaw",
+        "ability_description": "This Pokemon receives a 50% power boost for jaw attacks such as Bite and Crunch.",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Sturdy",
+        "ability_description": "The wielder cannot be KO'd in one hit. OHKO moves will fail.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Suction Cups",
+        "ability_description": "Cannot be forced to switch. Increases chance of encountering Pokemon while fishing.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Super Luck",
+        "ability_description": "Critical hit rate increases one stage.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Swarm",
+        "ability_description": "Boosts power of Bug-type moves by 50% when at 1/3 HP or less.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Sweet Veil",
+        "ability_description": "Prevents allies from being put to Sleep.",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Swift Swim",
+        "ability_description": "Speed doubles in rain.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Symbiosis",
+        "ability_description": "This Pokemon immediately passes its item to an ally after their item is consumed.",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Synchronize",
+        "ability_description": "When statused, the enemy is also statused. Can pass nature to wild Pokemon.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Tangled Feet",
+        "ability_description": "Evasion increases when confused.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Technician",
+        "ability_description": "Increases power of moves with 60 base power or less by 50%.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Telepathy",
+        "ability_description": "Does not take damage from allies' attacks.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Teravolt",
+        "ability_description": "Abilities that hinder attacks are nullified.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Thick Fat",
+        "ability_description": "Halves Ice- and Fire-type damage.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Tinted Lens",
+        "ability_description": "Doubles damage on resisted hits.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Torrent",
+        "ability_description": "Boosts power of Water-type moves by 50% when at 1/3 HP or less.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Tough Claws",
+        "ability_description": "This Pokemon's contact attacks do 1.33x damage.",
+        "genfamily": [
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Toxic Boost",
+        "ability_description": "Attack is increased by 50% when poisoned.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Trace",
+        "ability_description": "Copies foe's ability.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Truant",
+        "ability_description": "This Pokemon does nothing every other turn.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Turboblaze",
+        "ability_description": "Abilities that hinder attacks are nullified.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Unaware",
+        "ability_description": "Ignores stat boosts and debuffs on other Pokemon.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Unburden",
+        "ability_description": "Speed increases when an item is used or lost.",
+        "genfamily": [
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Unnerve",
+        "ability_description": "Prevents the foe from consuming its held Berry item.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Victory Star",
+        "ability_description": "Increases the accuracy of the wielder and allies on its side of the field by 10%.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Vital Spirit",
+        "ability_description": "Prevents sleep. Increases wild encounters with higher level Pokemon.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Volt Absorb",
+        "ability_description": "Heals 25% HP when hit by an Electric-type attack.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Water Absorb",
+        "ability_description": "Heals 25% HP when hit by a Water-type attack.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Water Veil",
+        "ability_description": "Prevents burn.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Weak Armor",
+        "ability_description": "Boosts Speed by 1 stage and lowers Defense by 1 stage when hit by a Physical move.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "White Smoke",
+        "ability_description": "Prevents the enemy from lowering this Pokemon's stats and decreases wild encounter rate.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Wonder Guard",
+        "ability_description": "Only super effective attacks harm this Pokemon.",
+        "genfamily": [
+            "RS",
+            "DP",
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Wonder Skin",
+        "ability_description": "Reduces the accuracy of a status move to 50%.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    },
+    {
+        "ability_name": "Zen Mode",
+        "ability_description": "The wielder changes forme when below 50% of its max HP.",
+        "genfamily": [
+            "BW",
+            "XY"
+        ]
+    }
+]
