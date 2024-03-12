@@ -66,13 +66,13 @@ def generate_item_insert_statements(item_data, sql_file_path):
             sql_file.write(f"INSERT INTO items.items (item_name, item_description, item_price) VALUES ('{item_name}', '{desc_escaped}', {item_price});\n")
 
 def main():
-    # sql_file_path = 'pokemon_insert.sql'
-    # generate_insert_statements(pokemon_data, sql_file_path)
-    # print(f"Generated SQL insert statements for Pokemon data at {sql_file_path}")
-    #generate_ability_insert_statements(ability_data, 'abilities_insert.sql')
-    #print(f"Generated SQL insert statements for Ability data at abilities_insert.sql")
-    #generate_move_insert_statements(move_data, 'moves_insert.sql')
-    #print(f"Generated SQL insert statements for Move data at moves_insert.sql")
+    sql_file_path = 'pokemon_insert.sql'
+    generate_insert_statements(pokemon_data, sql_file_path)
+    print(f"Generated SQL insert statements for Pokemon data at {sql_file_path}")
+    generate_ability_insert_statements(ability_data, 'abilities_insert.sql')
+    print(f"Generated SQL insert statements for Ability data at abilities_insert.sql")
+    generate_move_insert_statements(move_data, 'moves_insert.sql')
+    print(f"Generated SQL insert statements for Move data at moves_insert.sql")
     generate_item_insert_statements(item_data, 'items_insert.sql')
     print(f"Generated SQL insert statements for Item data at items_insert.sql")
 
